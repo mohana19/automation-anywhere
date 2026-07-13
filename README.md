@@ -162,14 +162,5 @@ npm run typecheck     # TypeScript type-check without running
   or may not fully complete in all environments. The form structure is created successfully
   and saved regardless of upload status.
 
-## Submission Checklist
 
-✅ Code organized by use case (UC1: UI, UC2: API)
-✅ Tests tagged with descriptive names  
-✅ Page Object Model used for UI automation
-✅ API client with typed responses for API tests
-✅ Environment configuration via `.env`
-✅ README.md with setup, execution, and configuration instructions
-✅ TypeScript for type safety
-✅ Playwright Test framework with HTML reporting
 ```
