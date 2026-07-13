@@ -4,6 +4,7 @@ node_modules/
 # Secrets / local config
 .env
 .env.local
+.env.example
 
 # Playwright artifacts
 test-results/
