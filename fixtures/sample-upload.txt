@@ -1,0 +1,3 @@
+Sample upload document for Automation Anywhere Community Edition — Use Case 1.
+This file is uploaded into the "Select File" control on the form canvas to
+verify the file-upload status and confirmation assertions.

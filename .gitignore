@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Secrets / local config
+.env
+.env.local
+
+# Playwright artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
